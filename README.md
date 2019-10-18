@@ -8,3 +8,6 @@ Adam Lipscomb
 Akash Prakash  
 Dylan Hua   
 Thang Vu   
+
+First Project Deliverable Link:     
+https://docs.google.com/document/d/1UBU1d27FNHPeq5BlS23HB_WSWhAW8iftHT914tnEfYk/edit
