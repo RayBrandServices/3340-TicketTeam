@@ -1,5 +1,5 @@
 # 3340-TicketTeam
-Ticket System To Sell To People for Events such as Concerts and other Venues.  
+Ticket System To Provide Pricing Information To People for Events such as Concerts and other Venues.  
 Team Members:   
 Brian Nguyen   
 Ray Raymos  
